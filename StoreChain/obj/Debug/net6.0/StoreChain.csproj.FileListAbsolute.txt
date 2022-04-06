@@ -1,0 +1,12 @@
+C:\Users\Home\Documents\Makharayka\StoreChain\StoreChain\bin\Debug\net6.0\StoreChain.deps.json
+C:\Users\Home\Documents\Makharayka\StoreChain\StoreChain\bin\Debug\net6.0\StoreChain.dll
+C:\Users\Home\Documents\Makharayka\StoreChain\StoreChain\bin\Debug\net6.0\ref\StoreChain.dll
+C:\Users\Home\Documents\Makharayka\StoreChain\StoreChain\bin\Debug\net6.0\StoreChain.pdb
+C:\Users\Home\Documents\Makharayka\StoreChain\StoreChain\obj\Debug\net6.0\StoreChain.csproj.AssemblyReference.cache
+C:\Users\Home\Documents\Makharayka\StoreChain\StoreChain\obj\Debug\net6.0\StoreChain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Documents\Makharayka\StoreChain\StoreChain\obj\Debug\net6.0\StoreChain.AssemblyInfoInputs.cache
+C:\Users\Home\Documents\Makharayka\StoreChain\StoreChain\obj\Debug\net6.0\StoreChain.AssemblyInfo.cs
+C:\Users\Home\Documents\Makharayka\StoreChain\StoreChain\obj\Debug\net6.0\StoreChain.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\Makharayka\StoreChain\StoreChain\obj\Debug\net6.0\StoreChain.dll
+C:\Users\Home\Documents\Makharayka\StoreChain\StoreChain\obj\Debug\net6.0\ref\StoreChain.dll
+C:\Users\Home\Documents\Makharayka\StoreChain\StoreChain\obj\Debug\net6.0\StoreChain.pdb

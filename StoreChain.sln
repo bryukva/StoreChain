@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreChain", "StoreChain\StoreChain.csproj", "{D1E29DEB-8D61-4AED-A418-3C756F824452}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreChain.Tests", "StoreChain.Tests\StoreChain.Tests\StoreChain.Tests.csproj", "{3CEF50DA-26D7-4A30-AEBB-0E201E646B57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1E29DEB-8D61-4AED-A418-3C756F824452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1E29DEB-8D61-4AED-A418-3C756F824452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1E29DEB-8D61-4AED-A418-3C756F824452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1E29DEB-8D61-4AED-A418-3C756F824452}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CEF50DA-26D7-4A30-AEBB-0E201E646B57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CEF50DA-26D7-4A30-AEBB-0E201E646B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CEF50DA-26D7-4A30-AEBB-0E201E646B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CEF50DA-26D7-4A30-AEBB-0E201E646B57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

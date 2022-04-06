@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=02e3e75f_002D4951_002D44f2_002Db3ab_002D16f63bac7f37/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddShop" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::3CEF50DA-26D7-4A30-AEBB-0E201E646B57::net6.0::StoreChain.Tests.UnitTest1.AddShop&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3CEF50DA-26D7-4A30-AEBB-0E201E646B57::net6.0::StoreChain.Tests.UnitTest1.Sell&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7def2a70_002D23c8_002D4149_002D9533_002D27f439911b94/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Sell" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::3CEF50DA-26D7-4A30-AEBB-0E201E646B57::net6.0::StoreChain.Tests.UnitTest1.Sell&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
